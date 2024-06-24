@@ -1,0 +1,54 @@
+1. Introduction(What is tailwind css?)
+
+=> Benefits of using tailwind css that we easily style or 
+customise our HTML elements without leaving HTML file
+ with the help of the classes.
+
+=> Not like Bootsrap( 
+adds a lot of extra code and files to your
+ website, which can affect its performance 
+ and loading speed.
+)
+
+
+2.Using play cdn.{
+
+Play CDN is used to test Tailwind in the 
+browser without requiring any build steps
+ and is not recommended for production.
+
+}
+
+
+3..Making navbar
+
+
+4.Installing production{
+
+Tailwind CSS is best integrated with
+ build tools like Vite by installing
+  it as a PostCSS plugin.
+
+}
+
+5.Installing Tailwind CSS IntelliSense{
+	A VS code extension used for 
+	suggesting classes
+}
+
+
+6.Font Family 
+
+7.Font sizing
+
+8.Text Align
+
+9.Letter spacing
+
+10.Margin
+
+11.Padding
+
+12. Space-between
+
+13.Making a landing page
